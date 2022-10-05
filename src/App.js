@@ -1,10 +1,10 @@
-import Game from "./components/Game";
+import Game from './Components/Game'
 
 function App() {
     return (
-    <div>
-        <Game />
-    </div>
+        <div>
+            <Game />
+        </div>
     )
 }
 
