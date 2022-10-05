@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import './Game.js'
+import Game from "./components/Game";
 
 function App() {
-  return (
+    return (
     <div>
-      <Game />
+        <Game />
     </div>
-  );
+    )
 }
 
 export default App;
